@@ -204,7 +204,7 @@ We include them in the header section: `<head>`
 	`<script src="js/jquery-3.2.1.min.js">  </script>`
 5. *Set the size of your map.* Using CSS syntax we will set the size of the map to fill a full browser window: 
 	`<style> #map{position: absolute; top:0; bottom:0; left:0; width: 100%;} </style>`
-6. *Close the <header> tag.*
+6. *Close the `<header>` tag.*
 
 #### Writing the Body
 
